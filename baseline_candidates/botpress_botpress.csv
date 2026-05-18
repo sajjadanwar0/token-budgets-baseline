@@ -1,0 +1,6 @@
+number,title,url,state,createdAt,title_hit,body_hit,codebook_decision,cluster,would_filter_have_caught,notes
+14900,"@botpress/chat - Dependency to ""jsonwebtoken"" library does not work on Cloudflare Workers",https://github.com/botpress/botpress/issues/14900,OPEN,2026-01-30,True,True,,,,
+14046,"More than 2k tokens billed for a ""Hi"" message, due to the large system prompt",https://github.com/botpress/botpress/issues/14046,CLOSED,2025-07-20,True,True,,,,
+13016,error parsing template SyntaxError: Unexpected token '}',https://github.com/botpress/botpress/issues/13016,CLOSED,2024-02-28,True,True,,,,
+13002,Botpress - open source,https://github.com/botpress/botpress/issues/13002,CLOSED,2024-02-20,False,True,,,,
+12707,Adding extra intercom webhook topics causes infinite loops,https://github.com/botpress/botpress/issues/12707,CLOSED,2023-06-29,True,False,,,,

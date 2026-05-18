@@ -1,0 +1,4 @@
+number,title,url,state,createdAt,title_hit,body_hit,codebook_decision,cluster,would_filter_have_caught,notes
+11,在event loop中执行会报错：RuntimeError: asyncio.run() cannot be called from a running event loop,https://github.com/wanxingai/LightAgent/issues/11,CLOSED,2025-08-27,True,True,,,,
+3,Add Support for Local LLM Models,https://github.com/wanxingai/LightAgent/issues/3,OPEN,2025-02-27,False,True,,,,
+2,[FEATURE] Enhanced Error Handling and User Feedback for AI Agent Interactions,https://github.com/wanxingai/LightAgent/issues/2,OPEN,2025-02-25,False,True,,,,

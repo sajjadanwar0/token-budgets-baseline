@@ -1,0 +1,4 @@
+number,title,url,state,createdAt,title_hit,body_hit,codebook_decision,cluster,would_filter_have_caught,notes
+25,Add Support for Ollama and Open Source LLMs,https://github.com/eylonmiz/react-agent/issues/25,OPEN,2024-08-19,False,True,,,,
+24,Where do you put your figma design url?,https://github.com/eylonmiz/react-agent/issues/24,OPEN,2024-07-08,False,True,,,,
+8,429 Error code with gpt-4,https://github.com/eylonmiz/react-agent/issues/8,OPEN,2023-05-18,True,True,,,,

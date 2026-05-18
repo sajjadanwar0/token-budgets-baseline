@@ -1,0 +1,7 @@
+number,title,url,state,createdAt,title_hit,body_hit,codebook_decision,cluster,would_filter_have_caught,notes
+128,Integration: OBSD LaunchPad MCP — free token deployment for AI agents on Base,https://github.com/heurist-network/heurist-agent-framework/issues/128,OPEN,2026-03-07,True,True,,,,
+40,Improve the PumpFun Token Analysis Agent,https://github.com/heurist-network/heurist-agent-framework/issues/40,CLOSED,2025-02-26,True,False,,,,
+38,Improve Coingecko Token Info Agent,https://github.com/heurist-network/heurist-agent-framework/issues/38,CLOSED,2025-02-24,True,False,,,,
+26,Add DexScreenerTokenInfoAgent,https://github.com/heurist-network/heurist-agent-framework/issues/26,CLOSED,2025-02-10,True,True,,,,
+25,Add PumpFunTokenAgent,https://github.com/heurist-network/heurist-agent-framework/issues/25,CLOSED,2025-02-10,True,False,,,,
+17,Support querying token info and analyzing token performance,https://github.com/heurist-network/heurist-agent-framework/issues/17,CLOSED,2025-02-05,True,False,,,,

@@ -1,0 +1,5 @@
+number,title,url,state,createdAt,title_hit,body_hit,codebook_decision,cluster,would_filter_have_caught,notes
+63,litellm.AuthenticationError: Missing Anthropic API Key,https://github.com/HKUDS/AutoAgent/issues/63,CLOSED,2025-08-11,False,True,,,,
+58,Rate Limit Recommendation,https://github.com/HKUDS/AutoAgent/issues/58,CLOSED,2025-05-28,True,True,,,,
+46,Error extracting the dom and axtree,https://github.com/HKUDS/AutoAgent/issues/46,OPEN,2025-03-14,False,True,,,,
+19,"openrouter/deepseek/deepseek-r1:free with ""KeyError: 'tool_calls'""",https://github.com/HKUDS/AutoAgent/issues/19,OPEN,2025-02-21,True,True,,,,

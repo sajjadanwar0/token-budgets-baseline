@@ -1,0 +1,12 @@
+number,title,url,state,createdAt,title_hit,body_hit,codebook_decision,cluster,would_filter_have_caught,notes
+317,[BUG] Error when using cerebras models,https://github.com/darrenhinde/OpenAgentsControl/issues/317,OPEN,2026-05-16,False,True,,,,
+310,ContextScout No .opencode/context/ directory exists,https://github.com/darrenhinde/OpenAgentsControl/issues/310,OPEN,2026-04-22,False,True,,,,
+278,🤖 Connect your agent to MEEET STATE — earn $MEEET on Solana,https://github.com/darrenhinde/OpenAgentsControl/issues/278,OPEN,2026-03-18,False,True,,,,
+272,Ask For Help: write plans to folder,https://github.com/darrenhinde/OpenAgentsControl/issues/272,CLOSED,2026-03-14,False,True,,,,
+271,Write plans to docs folder for sharing to team,https://github.com/darrenhinde/OpenAgentsControl/issues/271,CLOSED,2026-03-14,False,True,,,,
+270,[GOOD FIRST ISSUE],https://github.com/darrenhinde/OpenAgentsControl/issues/270,CLOSED,2026-03-14,False,True,,,,
+165,[FEATURE] Transition from Single decisions-log.md to ADR-style Index + Individual Records,https://github.com/darrenhinde/OpenAgentsControl/issues/165,OPEN,2026-02-02,False,True,,,,
+72,🤖 Auto-sync documentation with registry,https://github.com/darrenhinde/OpenAgentsControl/issues/72,CLOSED,2025-12-30,False,True,,,,
+58,🤖 Auto-sync documentation with registry,https://github.com/darrenhinde/OpenAgentsControl/issues/58,CLOSED,2025-12-14,False,True,,,,
+12,REQUEST(FEAT): Implement language seperation for multiple other coding languages,https://github.com/darrenhinde/OpenAgentsControl/issues/12,CLOSED,2025-11-06,False,True,,,,
+11,Bad Links,https://github.com/darrenhinde/OpenAgentsControl/issues/11,CLOSED,2025-10-22,False,True,,,,

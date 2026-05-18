@@ -1,0 +1,5 @@
+number,title,url,state,createdAt,title_hit,body_hit,codebook_decision,cluster,would_filter_have_caught,notes
+139,"panic: runtime error: range function continued iteration after function for loop body returned false [recovered, repanicked]",https://github.com/go-kratos/blades/issues/139,CLOSED,2025-11-16,True,True,,,,
+82,[Proposal] Support DAG and Pregel Execution Modes in Graph,https://github.com/go-kratos/blades/issues/82,OPEN,2025-10-31,False,True,,,,
+20,"Provider ecosystem: more providers (DeepSeek/Qwen/Gemini), retries/fallback/rate limiting.",https://github.com/go-kratos/blades/issues/20,OPEN,2025-09-27,True,False,,,,
+18,"Workflow: branching/parallel/routing, streaming across nodes, backpressure handling.",https://github.com/go-kratos/blades/issues/18,CLOSED,2025-09-27,False,True,,,,

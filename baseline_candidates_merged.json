@@ -1,0 +1,422 @@
+[
+  {
+    "description": "<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",
+    "fullName": "TransformerOptimus/SuperAGI",
+    "language": "Python",
+    "stargazersCount": 17526,
+    "url": "https://github.com/TransformerOptimus/SuperAGI"
+  },
+  {
+    "description": "AI Agent Framework, the Pydantic way",
+    "fullName": "pydantic/pydantic-ai",
+    "language": "Python",
+    "stargazersCount": 17105,
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "The open-source hub to build & deploy GPT/LLM Agents ⚡️",
+    "fullName": "botpress/botpress",
+    "language": "TypeScript",
+    "stargazersCount": 14695,
+    "url": "https://github.com/botpress/botpress"
+  },
+  {
+    "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
+    "fullName": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "language": "Python",
+    "stargazersCount": 9609,
+    "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+  },
+  {
+    "description": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\"",
+    "fullName": "HKUDS/AutoAgent",
+    "language": "Python",
+    "stargazersCount": 9313,
+    "url": "https://github.com/HKUDS/AutoAgent"
+  },
+  {
+    "description": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework",
+    "fullName": "VoltAgent/voltagent",
+    "language": "TypeScript",
+    "stargazersCount": 8978,
+    "url": "https://github.com/VoltAgent/voltagent"
+  },
+  {
+    "description": "An Autonomous LLM Agent for Complex Task Solving",
+    "fullName": "OpenBMB/XAgent",
+    "language": "Python",
+    "stargazersCount": 8531,
+    "url": "https://github.com/OpenBMB/XAgent"
+  },
+  {
+    "description": "The paper list of the 86-page SCIS cover paper \"The Rise and Potential of Large Language Model Based Agents: A Survey\" by Zhiheng Xi et al.",
+    "fullName": "WooooDyy/LLM-Agent-Paper-List",
+    "language": "",
+    "stargazersCount": 8126,
+    "url": "https://github.com/WooooDyy/LLM-Agent-Paper-List"
+  },
+  {
+    "description": "LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.",
+    "fullName": "nilsherzig/LLocalSearch",
+    "language": "Go",
+    "stargazersCount": 5954,
+    "url": "https://github.com/nilsherzig/LLocalSearch"
+  },
+  {
+    "description": "🐢 Open-Source Evaluation & Testing library for LLM Agents",
+    "fullName": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "stargazersCount": 5352,
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "A live stream development of RL tunning for LLM agents",
+    "fullName": "OpenManus/OpenManus-RL",
+    "language": "Python",
+    "stargazersCount": 4071,
+    "url": "https://github.com/OpenManus/OpenManus-RL"
+  },
+  {
+    "description": "AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode",
+    "fullName": "darrenhinde/OpenAgentsControl",
+    "language": "TypeScript",
+    "stargazersCount": 4041,
+    "url": "https://github.com/darrenhinde/OpenAgentsControl"
+  },
+  {
+    "description": "🤖 Build voice-based LLM agents. Modular + open source.",
+    "fullName": "vocodedev/vocode-core",
+    "language": "Python",
+    "stargazersCount": 3745,
+    "url": "https://github.com/vocodedev/vocode-core"
+  },
+  {
+    "description": "SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal",
+    "fullName": "aiming-lab/SimpleMem",
+    "language": "Python",
+    "stargazersCount": 3203,
+    "url": "https://github.com/aiming-lab/SimpleMem"
+  },
+  {
+    "description": "Must-read Papers on LLM Agents.",
+    "fullName": "zjunlp/LLMAgentPapers",
+    "language": "",
+    "stargazersCount": 3016,
+    "url": "https://github.com/zjunlp/LLMAgentPapers"
+  },
+  {
+    "description": "The no-code platform for building custom LLM Agents",
+    "fullName": "gmpetrov/databerry",
+    "language": "",
+    "stargazersCount": 2940,
+    "url": "https://github.com/gmpetrov/databerry"
+  },
+  {
+    "description": "Structured data gathering from any website using AI-powered scraper, crawler, and browser automation. Scraping and crawling with natural language prompts. Equip your LLM agents with fresh data. AI Studio python SDK for intelligent web data gathering. ",
+    "fullName": "oxylabs/oxylabs-ai-studio-py",
+    "language": "Python",
+    "stargazersCount": 2906,
+    "url": "https://github.com/oxylabs/oxylabs-ai-studio-py"
+  },
+  {
+    "description": "",
+    "fullName": "Paitesanshi/LLM-Agent-Survey",
+    "language": "",
+    "stargazersCount": 2900,
+    "url": "https://github.com/Paitesanshi/LLM-Agent-Survey"
+  },
+  {
+    "description": "Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.",
+    "fullName": "decodingai-magazine/second-brain-ai-assistant-course",
+    "language": "Jupyter Notebook",
+    "stargazersCount": 2734,
+    "url": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course"
+  },
+  {
+    "description": "Official Code of Memento: Fine-tuning LLM Agents without Fine-tuning LLMs",
+    "fullName": "Memento-Teams/Memento",
+    "language": "Python",
+    "stargazersCount": 2428,
+    "url": "https://github.com/Memento-Teams/Memento"
+  },
+  {
+    "description": "PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.",
+    "fullName": "GH05TCREW/pentestagent",
+    "language": "Python",
+    "stargazersCount": 2361,
+    "url": "https://github.com/GH05TCREW/pentestagent"
+  },
+  {
+    "description": "A repo lists papers related to LLM based agent",
+    "fullName": "AGI-Edgerunners/LLM-Agents-Papers",
+    "language": "Python",
+    "stargazersCount": 2299,
+    "url": "https://github.com/AGI-Edgerunners/LLM-Agents-Papers"
+  },
+  {
+    "description": "No-code multi-agent framework to build LLM Agents, workflows and applications with your data",
+    "fullName": "trypromptly/LLMStack",
+    "language": "Python",
+    "stargazersCount": 2299,
+    "url": "https://github.com/trypromptly/LLMStack"
+  },
+  {
+    "description": "LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, kimi,doubao. Adapted to local llms, vlm, gguf such as llama-3.3 Janus-Pro, Linkage graphRAG",
+    "fullName": "heshengtao/comfyui_LLM_party",
+    "language": "Python",
+    "stargazersCount": 2249,
+    "url": "https://github.com/heshengtao/comfyui_LLM_party"
+  },
+  {
+    "description": "🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.",
+    "fullName": "yomorun/yomo",
+    "language": "Rust",
+    "stargazersCount": 1904,
+    "url": "https://github.com/yomorun/yomo"
+  },
+  {
+    "description": "verl-agent is an extension of veRL, designed for training LLM/VLM agents via RL. verl-agent is also the official code for paper \"Group-in-Group Policy Optimization for LLM Agent Training\"",
+    "fullName": "langfengQ/verl-agent",
+    "language": "Python",
+    "stargazersCount": 1900,
+    "url": "https://github.com/langfengQ/verl-agent"
+  },
+  {
+    "description": "🤖 Create LLM agents in a second with your prompts. Everything you need to create an LLM Agent - tools, prompts, frameworks, and models - all in one place.",
+    "fullName": "melih-unsal/DemoGPT",
+    "language": "Python",
+    "stargazersCount": 1899,
+    "url": "https://github.com/melih-unsal/DemoGPT"
+  },
+  {
+    "description": "AutoChain: Build lightweight, extensible, and testable LLM Agents",
+    "fullName": "Forethought-Technologies/AutoChain",
+    "language": "Python",
+    "stargazersCount": 1875,
+    "url": "https://github.com/Forethought-Technologies/AutoChain"
+  },
+  {
+    "description": "The open-source React.js Autonomous LLM Agent",
+    "fullName": "eylonmiz/react-agent",
+    "language": "TypeScript",
+    "stargazersCount": 1656,
+    "url": "https://github.com/eylonmiz/react-agent"
+  },
+  {
+    "description": "Official Repo for ICML 2024 paper \"Executable Code Actions Elicit Better LLM Agents\" by Xingyao Wang, Yangyi Chen, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji.",
+    "fullName": "xingyaoww/code-act",
+    "language": "Python",
+    "stargazersCount": 1655,
+    "url": "https://github.com/xingyaoww/code-act"
+  },
+  {
+    "description": "Agentic-RAG explores advanced Retrieval-Augmented Generation systems enhanced with AI LLM agents. ",
+    "fullName": "asinghcsu/AgenticRAG-Survey",
+    "language": "",
+    "stargazersCount": 1607,
+    "url": "https://github.com/asinghcsu/AgenticRAG-Survey"
+  },
+  {
+    "description": "A curated list of awesome LLM agents frameworks.",
+    "fullName": "kaushikb11/awesome-llm-agents",
+    "language": "Python",
+    "stargazersCount": 1484,
+    "url": "https://github.com/kaushikb11/awesome-llm-agents"
+  },
+  {
+    "description": "Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning",
+    "fullName": "AgentR1/Agent-R1",
+    "language": "Python",
+    "stargazersCount": 1425,
+    "url": "https://github.com/AgentR1/Agent-R1"
+  },
+  {
+    "description": "A self-hosted sandbox for red teams to test payloads against modern detection before deployment. MCP integration lets an LLM agent drive analysis end to end.",
+    "fullName": "BlackSnufkin/LitterBox",
+    "language": "YARA",
+    "stargazersCount": 1422,
+    "url": "https://github.com/BlackSnufkin/LitterBox"
+  },
+  {
+    "description": "A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $135M cap.",
+    "fullName": "jdagdelen/hyperDB",
+    "language": "Python",
+    "stargazersCount": 1408,
+    "url": "https://github.com/jdagdelen/hyperDB"
+  },
+  {
+    "description": "入门资料整理：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.",
+    "fullName": "Barca0412/Introduction-to-Quantitative-Finance",
+    "language": "Python",
+    "stargazersCount": 1392,
+    "url": "https://github.com/Barca0412/Introduction-to-Quantitative-Finance"
+  },
+  {
+    "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
+    "fullName": "espressif/esp-claw",
+    "language": "C",
+    "stargazersCount": 1242,
+    "url": "https://github.com/espressif/esp-claw"
+  },
+  {
+    "description": "The Best AI Agent Framework for Agent Collaboration. ",
+    "fullName": "openonion/connectonion",
+    "language": "Python",
+    "stargazersCount": 1125,
+    "url": "https://github.com/openonion/connectonion"
+  },
+  {
+    "description": "LightAgent: Lightweight AI agent framework with memory, mcp & skill. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.",
+    "fullName": "wanxingai/LightAgent",
+    "language": "Python",
+    "stargazersCount": 970,
+    "url": "https://github.com/wanxingai/LightAgent"
+  },
+  {
+    "description": "🤖 The most comprehensive list of AI agents, frameworks & tools in 2026. 300+ resources · 20+ categories · Updated monthly.",
+    "fullName": "caramaschiHG/awesome-ai-agents-2026",
+    "language": "",
+    "stargazersCount": 865,
+    "url": "https://github.com/caramaschiHG/awesome-ai-agents-2026"
+  },
+  {
+    "description": "A flexible multi-interface AI agent framework for building agents with reasoning, tool use, memory, deep research, blockchain interaction, MCP, and agents-as-a-service.",
+    "fullName": "heurist-network/heurist-agent-framework",
+    "language": "Python",
+    "stargazersCount": 813,
+    "url": "https://github.com/heurist-network/heurist-agent-framework"
+  },
+  {
+    "description": "CodeGate: Security, Workspaces and Multiplexing for AI Agentic Frameworks",
+    "fullName": "stacklok/codegate",
+    "language": "Python",
+    "stargazersCount": 787,
+    "url": "https://github.com/stacklok/codegate"
+  },
+  {
+    "description": "Blades is a Go-based multimodal AI Agent framework.",
+    "fullName": "go-kratos/blades",
+    "language": "Go",
+    "stargazersCount": 772,
+    "url": "https://github.com/go-kratos/blades"
+  },
+  {
+    "description": "DeFi toolkit for AI agents and coding assistants — deposit funds, execute trades, and manage crypto wallets. Works with Claude Code, Cursor,   Windsurf, OpenClaw, CrewAI, AutoGPT, and other AI agent frameworks.",
+    "fullName": "swapperfinance/swapper-toolkit",
+    "language": "",
+    "stargazersCount": 733,
+    "url": "https://github.com/swapperfinance/swapper-toolkit"
+  },
+  {
+    "description": "The ultimate playground to learn, experiment with, and compare modern open-source AI agent frameworks — from basics to production-ready setups.",
+    "fullName": "martimfasantos/ai-agents-frameworks",
+    "language": "Python",
+    "stargazersCount": 556,
+    "url": "https://github.com/martimfasantos/ai-agents-frameworks"
+  },
+  {
+    "description": "Keep it Simple, Stupid AI Agent Framework with a General-Purpose and Software Engineering Assistant, called KISS Sorcar.",
+    "fullName": "ksenxx/kiss_ai",
+    "language": "Python",
+    "stargazersCount": 503,
+    "url": "https://github.com/ksenxx/kiss_ai"
+  },
+  {
+    "description": "🤖 An AI agent framework built with Rust.",
+    "fullName": "ldclabs/anda",
+    "language": "Rust",
+    "stargazersCount": 426,
+    "url": "https://github.com/ldclabs/anda"
+  },
+  {
+    "description": "Common AI agent framework solving your data problems",
+    "fullName": "project-ryoma/ryoma",
+    "language": "Python",
+    "stargazersCount": 407,
+    "url": "https://github.com/project-ryoma/ryoma"
+  },
+  {
+    "description": "A universal git-native AI agent framework. Your agent lives inside a git repo — identity, rules, memory, tools, and skills are all version-controlled files.",
+    "fullName": "open-gitagent/gitagent",
+    "language": "TypeScript",
+    "stargazersCount": 373,
+    "url": "https://github.com/open-gitagent/gitagent"
+  },
+  {
+    "description": "The functional, composable, and typescript-first AI Agent framework for real-world LLM Apps.",
+    "fullName": "AIGNE-io/aigne-framework",
+    "language": "TypeScript",
+    "stargazersCount": 364,
+    "url": "https://github.com/AIGNE-io/aigne-framework"
+  },
+  {
+    "description": "A repository of examples using Python AI Agent frameworks that work with GitHub Models and Azure OpenAI.",
+    "fullName": "Azure-Samples/python-ai-agent-frameworks-demos",
+    "language": "Bicep",
+    "stargazersCount": 329,
+    "url": "https://github.com/Azure-Samples/python-ai-agent-frameworks-demos"
+  },
+  {
+    "description": "KohakuTerrarium is a general-purpose AI agent framework and batteries-included app for building, running, and composing self-contained agents and multi-agent teams, with built-in tools, sub-agents, persistent sessions, TUI, and web UI.",
+    "fullName": "Kohaku-Lab/KohakuTerrarium",
+    "language": "Python",
+    "stargazersCount": 328,
+    "url": "https://github.com/Kohaku-Lab/KohakuTerrarium"
+  },
+  {
+    "description": "Experimental AI Agents Framework",
+    "fullName": "microsoft/project-oagents",
+    "language": "C#",
+    "stargazersCount": 303,
+    "url": "https://github.com/microsoft/project-oagents"
+  },
+  {
+    "description": "AIFlow is an AI agentic framework designed to scale digital AI agents on BNB Chain.",
+    "fullName": "alphapro-club/AIFlow-Agent",
+    "language": "Python",
+    "stargazersCount": 241,
+    "url": "https://github.com/alphapro-club/AIFlow-Agent"
+  },
+  {
+    "description": "A general AI agent framework that can be adapted to various tasks and environments.",
+    "fullName": "chatsci/Aeiva",
+    "language": "Python",
+    "stargazersCount": 159,
+    "url": "https://github.com/chatsci/Aeiva"
+  },
+  {
+    "description": "A curated collection of cutting-edge AI agent frameworks, developer tools, and automation resources — by AI Pulse Georgia",
+    "fullName": "tornikebolokadze1-cyber/awesome-ai-pulse-georgia",
+    "language": "TypeScript",
+    "stargazersCount": 114,
+    "url": "https://github.com/tornikebolokadze1-cyber/awesome-ai-pulse-georgia"
+  },
+  {
+    "description": "A lightweight AI agent framework for vertical domain applications | 面向垂域应用的轻量级 AI Agent 框架",
+    "fullName": "fdueblab/Micro-Agent",
+    "language": "Python",
+    "stargazersCount": 111,
+    "url": "https://github.com/fdueblab/Micro-Agent"
+  },
+  {
+    "description": "轻量级AI Agent框架，让你5分钟构建专属智能助手。Lightweight AI Agent framework. Build your AI assistant in 5 minutes.",
+    "fullName": "JiayuXu0/ZipAgent",
+    "language": "Python",
+    "stargazersCount": 109,
+    "url": "https://github.com/JiayuXu0/ZipAgent"
+  },
+  {
+    "description": "A workflow-driven AI agent framework that executes YAML-defined decision trees.",
+    "fullName": "hardness1020/Leeway",
+    "language": "Python",
+    "stargazersCount": 108,
+    "url": "https://github.com/hardness1020/Leeway"
+  },
+  {
+    "description": "20-interface AI agent framework with 3-layer architecture, multi-agent delegation, and self-evolution.",
+    "fullName": "Yang1999code/controllable-agent",
+    "language": "Python",
+    "stargazersCount": 105,
+    "url": "https://github.com/Yang1999code/controllable-agent"
+  }
+]
