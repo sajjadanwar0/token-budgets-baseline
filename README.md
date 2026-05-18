@@ -64,4 +64,6 @@ The retention rate should be roughly uniform across frameworks within the 30–5
 - [token-budgets-formals](https://github.com/sajjadanwar0/token-budgets-formals) — main catalog (109-row retained) lives in `irr/coding_sheet.csv`
 - [token-budgets-experiments](https://github.com/sajjadanwar0/token-budgets-experiments) — fair-baseline analysis in `fair-baseline/`
 
+## License
+
 Dual MIT/Apache-2.0. See `LICENSE-MIT` and `LICENSE-APACHE`.
